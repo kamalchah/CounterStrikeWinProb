@@ -32,7 +32,9 @@ dir_name = "C:\\Users\\kAMAL\\Desktop\\pureskill\\Demos"
 Important links if needed by reader:
 
 https://docs.pureskill.gg/datascience/adx/csgo/csds/spec
+
 https://docs.google.com/spreadsheets/d/11tDzUNBq9zIX6_9Rel__fdAUezAQzSnh5AVYzCP060c/htmlview
+
 https://github.com/pureskillgg/csgo-dsdk
-https://github.com/pureskillgg/csgo-dsdk
+
 https://github.com/pureskillgg/dsdk
