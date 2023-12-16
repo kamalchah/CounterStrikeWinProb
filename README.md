@@ -24,8 +24,10 @@ Before running the code, make sure to set the correct path for your CS:GO demo f
 A sample of 50 demos is included in this repository. For more demos visit https://docs.pureskill.gg/datascience/adx/csgo/csds/spec/#round_end---single_event
 
 Replace this directory with the location of which your demos are stored as files containing parquet files.
-dir_name = "C:\\Users\\kAMAL\\Desktop\\pureskill\\Demos"
 
+```python
+dir_name = "C:\\Users\\kAMAL\\Desktop\\pureskill\\Demos"
+```
 
 Important links if needed by reader:
 https://docs.pureskill.gg/datascience/adx/csgo/csds/spec
