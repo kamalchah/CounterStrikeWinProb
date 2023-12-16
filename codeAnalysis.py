@@ -42,7 +42,6 @@ def extract_and_add_to_csds(base_folder):
 
 # your location of the stored demos
 dir_name = "C:\\Users\\kAMAL\\Desktop\\pureskill\\\Demos"
-dir_name = "C:\\Users\\kAMAL\\Desktop\\pureskill\\\demoOne"
 cs = extract_and_add_to_csds(dir_name)
 
 T_TEAM_CODE = 2
