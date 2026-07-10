@@ -1,6 +1,4 @@
-# Word Embeddings — Kamal Chahrour (101162518)
-
-GitHub's inline PDF viewer fails to render [WordEmbeddingsKamal_Chahrour101162518.pdf](WordEmbeddingsKamal_Chahrour101162518.pdf) in Chrome-based browsers, so the document is mirrored here as page images. Download the PDF above if you want the original file.
+# Word Embeddings — Kamal Chahrour
 
 ![Page 1](images/word-embeddings/page-01.png)
 
